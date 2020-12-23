@@ -1,15 +1,19 @@
-baseurl = "https://example.com"
-title = "Hugo Themes - aether"
-author = "Joe Hutchinson"
+baseurl = "https://dotfox.at"
+title = "dotfox | Web- & IT-Services Wien"
+author = "Niko Ryba"
 canonifyurls = true
 paginate = 3
 theme = "aether"
-themesDir = "../../" 
+themesDir = "../../"
+languageCode = "de-at"
+googleAnalytics = "UA-173275317-3"
 
 [params]
-    brand = "aether"
-    description = "aether Hugo theme for blogs"
+    brand = "dotfox"
+    description = "Web- & IT-Services Wien"
     headshotimg = "img/faceshot.jpg"
+    github = "https://github.com/NixXxn"
+    linkedin = "https://www.linkedin.com/in/niko-ryba-77177b69/"
 
 [markup]
   [markup.highlight]
